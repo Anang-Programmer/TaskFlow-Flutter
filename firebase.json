@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "taskflow-2611b",
+                    "appId": "1:707753362672:android:2fa27cde3c0154da542e35",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "taskflow-2611b",
+                    "configurations": {
+                        "android": "1:707753362672:android:2fa27cde3c0154da542e35"
+                    }
+                }
+            }
+        }
+    }
+}
